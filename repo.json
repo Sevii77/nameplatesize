@@ -1,0 +1,22 @@
+[
+	{
+		"Author": "Sevii",
+		"Name": "Nameplate Size",
+		"Description": "Constant size for nameplates",
+		"InternalName": "NameplateSize",
+		"AssemblyVersion": "0.1.0",
+		"TestingAssemblyVersion": "0.1.0",
+		"RepoUrl": "https://github.com/Sevii77/nameplatesize",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 14,
+		"IsHide": "False",
+		"IsTestingExclusive": "False",
+		"DownloadCount": 0,
+		"LastUpdate": 0,
+		"DownloadLinkInstall": "https://github.com/Sevii77/nameplatesize/raw/master/release.zip",
+		"DownloadLinkTesting": "https://github.com/Sevii77/nameplatesize/raw/master/release.zip",
+		"DownloadLinkUpdate": "https://github.com/Sevii77/nameplatesize/raw/master/release.zip",
+		"IconUrl": "https://github.com/Sevii77/nameplatesize/raw/master/images/icon.png",
+		"Tags": ["Housing"]
+	}
+]
